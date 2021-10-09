@@ -96,7 +96,7 @@ function header() {
                 </div>
                 <div class="header__user user-login">
                     <div class="header__user-info">
-                        <img src="./assets/img/avartar.jpg" alt="" class="header__user-img">
+                        <img src="assets/img/avartar.jpg" alt="" class="header__user-img">
                     </div>
                     <span class="header__user-info-number">
                         Cao Ngọc Diệu
